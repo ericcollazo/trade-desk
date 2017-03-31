@@ -9,6 +9,7 @@ import { SidebarMenuComponent } from './sidebar-menu/sidebar-menu.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { ChartComponent } from './chart/chart.component';
 import { StockListComponent } from './stock-list/stock-list.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { StockListComponent } from './stock-list/stock-list.component';
     SidebarMenuComponent,
     DashboardComponent,
     ChartComponent,
-    StockListComponent
+    StockListComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
