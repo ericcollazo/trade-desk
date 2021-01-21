@@ -22,7 +22,7 @@
     "core-js": "^2.4.1",
     "intraday": "0.0.5",
     "rxjs": "^6.5.2",
-    "socket.io": "^1.7.3",
+    "socket.io": "^2.4.0",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1",
     "rxjs-compat": "^6.0.0-rc.0"
